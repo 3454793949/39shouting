@@ -3,8 +3,7 @@
 > ***
 ### 自己的收集使用教程具体找作者
  ### fork 好后，点击 Settings 、 secrets 、 New repository secrets 进行添加相关数据
- ![Snipaste_2021-03-01_05-36-51](https://user-images.githubusercontent.com/79479594/109432788-4182de00-7a50-11eb-9ebf-3da345f21e35.png)
-
+ ![Snipaste_2021-03-01_05-36-51](https://user-images.githubusercontent.com/79479594/109432788-4182de00a50-11eb-9ebf-3da345f21e35.png)
  参数如下：  
 |  Name | Value  |
 |  --- | --- |
@@ -14,7 +13,6 @@
 | UNICOM_PASSWORD  | 服务密码 |    
 #### 依次添加共四项
 ![image](https://user-images.githubusercontent.com/79479594/109432827-6d05c880-7a50-11eb-8682-50405d7d66dd.png)
-
 #### 添加以上数据之后，进入 actions ，点击绿色长条启用它，   
 ![QQ图片20210301054304](https://user-images.githubusercontent.com/79479594/109433119-1600f300-7a52-11eb-8ad2-0f7739d407c8.png)
   
